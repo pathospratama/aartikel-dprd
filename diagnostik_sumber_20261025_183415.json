@@ -1,0 +1,1263 @@
+[
+  {
+    "source": "DPRD Kuningan (Resmi)",
+    "endpoint_type": "html_utama",
+    "url": "https://dprd.kuningankab.go.id/berita/page/1",
+    "final_url": "https://dprd.kuningankab.go.id/berita/page/1",
+    "http_status": 200,
+    "title": "Berita - DPRD Kabupaten Kuningan",
+    "html_bytes": 74546,
+    "challenge_detected": false,
+    "configured_items": 8,
+    "configured_titles": 8,
+    "parsed_articles": 8,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://bappeda.kuningankab.go.id/category/berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://bappeda.kuningankab.go.id/category/berita/page/2/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://bappeda.kuningankab.go.id/2026/10/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://bappeda.kuningankab.go.id/2026/09/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://bappeda.kuningankab.go.id/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "rss_feed",
+    "url": "https://bappeda.kuningankab.go.id/category/berita/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "rss_feed",
+    "url": "https://bappeda.kuningankab.go.id/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Bappeda Kuningan",
+    "endpoint_type": "api",
+    "url": "https://bappeda.kuningankab.go.id/wp-json/wp/v2/posts?_embed=1",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Kategori Daerah",
+    "endpoint_type": "html_utama",
+    "url": "https://kuningankab.go.id/home/category/daerah/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Kategori Daerah",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/home/publikasi-berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Kategori Daerah",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/home/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Kategori Daerah",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/home/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Kategori Daerah",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "html_utama",
+    "url": "https://kuningankab.go.id/home/publikasi-berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/home/category/daerah/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/home/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/home/publikasi-berita/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/home/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Berita",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "html_utama",
+    "url": "https://kuningankab.go.id/home/publikasi-pengumuman/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/home/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningankab.go.id/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/home/publikasi-pengumuman/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/home/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Pemkab Kuningan — Publikasi Pengumuman",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuningankab.go.id/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "PPID Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://ppid.kuningankab.go.id/artikel",
+    "final_url": "https://ppid.kuningankab.go.id/artikel",
+    "http_status": 200,
+    "title": "PPID Kabupaten Kuningan - Artikel",
+    "html_bytes": 37931,
+    "challenge_detected": false,
+    "configured_items": 18,
+    "configured_titles": 9,
+    "parsed_articles": 9,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "PPID Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://ppid.kuningankab.go.id/",
+    "final_url": "https://ppid.kuningankab.go.id/",
+    "http_status": 200,
+    "title": "PPID Kabupaten Kuningan - Home",
+    "html_bytes": 64705,
+    "challenge_detected": false,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 13,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kuningan Mass",
+    "endpoint_type": "html_utama",
+    "url": "https://kuninganmass.com/?s=dprd",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Server menolak permintaan (HTTP/access denied); bukan kegagalan selector HTML.",
+    "fetch_errors": [
+      "HTTP 403 Forbidden"
+    ]
+  },
+  {
+    "source": "Kuningan Mass",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuninganmass.com/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Server menolak permintaan (HTTP/access denied); bukan kegagalan selector HTML.",
+    "fetch_errors": [
+      "HTTP 403 Forbidden"
+    ]
+  },
+  {
+    "source": "Kuningan Jabar Info",
+    "endpoint_type": "html_utama",
+    "url": "https://kuninganjabarinfo.id/category/dprd/",
+    "final_url": "https://kuninganjabarinfo.id/category/dprd/",
+    "http_status": 200,
+    "title": "DPRD Arsip - Kuningan Jabar Info",
+    "html_bytes": 102660,
+    "challenge_detected": false,
+    "configured_items": 10,
+    "configured_titles": 15,
+    "parsed_articles": 10,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kuningan Jabar Info",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuninganjabarinfo.id/",
+    "final_url": "https://kuninganjabarinfo.id/",
+    "http_status": 200,
+    "title": "Home - Kuningan Jabar Info",
+    "html_bytes": 313767,
+    "challenge_detected": false,
+    "configured_items": 12,
+    "configured_titles": 72,
+    "parsed_articles": 10,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://inilahkuningan.com/indeks-berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://inilahkuningan.com/indeks-berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://inilahkuningan.com/category/berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://inilahkuningan.com/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "rss_feed",
+    "url": "https://inilahkuningan.com/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Inilah Kuningan",
+    "endpoint_type": "api",
+    "url": "https://inilahkuningan.com/wp-json/wp/v2/posts?_embed=1",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Antara News Jabar",
+    "endpoint_type": "html_utama",
+    "url": "https://jabar.antaranews.com/tag/kuningan",
+    "final_url": "https://jabar.antaranews.com/tag/kuningan",
+    "http_status": 200,
+    "title": "Kumpulan Berita kuningan - ANTARA News Jawa Barat",
+    "html_bytes": 80043,
+    "challenge_detected": false,
+    "configured_items": 38,
+    "configured_titles": 39,
+    "parsed_articles": 38,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Antara News Jabar",
+    "endpoint_type": "html_fallback",
+    "url": "https://jabar.antaranews.com/",
+    "final_url": "https://jabar.antaranews.com/",
+    "http_status": 200,
+    "title": "ANTARA News Jawa Barat - Berita Terkini Jawa Barat - ANTARA News Jawa Barat",
+    "html_bytes": 219867,
+    "challenge_detected": false,
+    "configured_items": 74,
+    "configured_titles": 130,
+    "parsed_articles": 68,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "RRI Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://rri.co.id/kuningan",
+    "final_url": "https://rri.co.id/pusat-pemberitaan",
+    "http_status": 200,
+    "title": "RRI.co.id - Portal Berita Nasional dan Radio Online Terpercaya",
+    "html_bytes": 302475,
+    "challenge_detected": false,
+    "configured_items": 30,
+    "configured_titles": 39,
+    "parsed_articles": 30,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "RRI Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://rri.co.id/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": null,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "HTTP 200 tetapi body kosong",
+    "fetch_errors": [
+      "HTTP 200 tetapi body kosong"
+    ]
+  },
+  {
+    "source": "RRI Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://rri.co.id/berita",
+    "final_url": "https://rri.co.id/berita",
+    "http_status": 200,
+    "title": "Berita : Nasional, Internasional, Regional & Daerah 3T - RRI.co.id",
+    "html_bytes": 232051,
+    "challenge_detected": false,
+    "configured_items": 25,
+    "configured_titles": 25,
+    "parsed_articles": 25,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Radar Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://radarkuningan.disway.id/",
+    "final_url": "https://radarkuningan.disway.id/",
+    "http_status": 200,
+    "title": "Kuningan Real Time News",
+    "html_bytes": 178045,
+    "challenge_detected": false,
+    "configured_items": 2,
+    "configured_titles": 60,
+    "parsed_articles": 1,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kabar Kuningan (PR)",
+    "endpoint_type": "html_utama",
+    "url": "https://kabarkuningan.pikiran-rakyat.com/",
+    "final_url": "https://kabarkuningan.pikiran-rakyat.com/",
+    "http_status": 200,
+    "title": "Media Kabar Kuningan Berjejaring, Fakta Independen Terpercaya",
+    "html_bytes": 139511,
+    "challenge_detected": false,
+    "configured_items": 8,
+    "configured_titles": 63,
+    "parsed_articles": 63,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kabar Kuningan (PR)",
+    "endpoint_type": "html_fallback",
+    "url": "https://kabarkuningan.pikiran-rakyat.com/kabar-kuningan",
+    "final_url": "https://kabarkuningan.pikiran-rakyat.com/kabar-kuningan",
+    "http_status": 200,
+    "title": "Kabar Kuningan | Kabar Kuningan",
+    "html_bytes": 75960,
+    "challenge_detected": false,
+    "configured_items": 2,
+    "configured_titles": 20,
+    "parsed_articles": 20,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Potret Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://potretkuningan.com/category/headline/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Potret Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://potretkuningan.com/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Potret Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://potretkuningan.com/?s=dprd",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Potret Kuningan",
+    "endpoint_type": "rss_feed",
+    "url": "https://potretkuningan.com/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Potret Kuningan",
+    "endpoint_type": "api",
+    "url": "https://potretkuningan.com/wp-json/wp/v2/posts?_embed=1",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://mediakuningan.com/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://mediakuningan.com/category/berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://mediakuningan.com/?s=dprd",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Kuningan",
+    "endpoint_type": "rss_feed",
+    "url": "https://mediakuningan.com/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Kuningan",
+    "endpoint_type": "api",
+    "url": "https://mediakuningan.com/wp-json/wp/v2/posts?_embed=1",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Ciremai Today",
+    "endpoint_type": "html_utama",
+    "url": "https://ciremaitoday.com/",
+    "final_url": "https://ciremaitoday.com/",
+    "http_status": 200,
+    "title": "Home - Ciremai Today",
+    "html_bytes": 276171,
+    "challenge_detected": false,
+    "configured_items": 34,
+    "configured_titles": 34,
+    "parsed_articles": 24,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Ciremai Today",
+    "endpoint_type": "html_fallback",
+    "url": "https://ciremaitoday.com/tag/kuningan/",
+    "final_url": "https://ciremaitoday.com/tag/kuningan/",
+    "http_status": 200,
+    "title": "Kuningan - Ciremai Today",
+    "html_bytes": 194868,
+    "challenge_detected": false,
+    "configured_items": 6,
+    "configured_titles": 6,
+    "parsed_articles": 6,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Ciremai Today",
+    "endpoint_type": "html_fallback",
+    "url": "https://ciremaitoday.com/category/berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": null,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "HTTP 404 Not Found",
+    "fetch_errors": [
+      "HTTP 404 Not Found"
+    ]
+  },
+  {
+    "source": "Ciremai Today",
+    "endpoint_type": "rss_feed",
+    "url": "https://ciremaitoday.com/feed/",
+    "final_url": "https://ciremaitoday.com/feed/",
+    "http_status": 200,
+    "title": "Ciremai Today",
+    "html_bytes": 51468,
+    "challenge_detected": false,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 10,
+    "diagnostic": "Endpoint terstruktur mengembalikan artikel.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Ciremai Today",
+    "endpoint_type": "api",
+    "url": "https://ciremaitoday.com/wp-json/wp/v2/posts?_embed=1",
+    "final_url": "https://ciremaitoday.com/wp-json/wp/v2/posts?_embed=1",
+    "http_status": 200,
+    "title": "Kebakaran Ilalang Bambu di Sindang Indramayu, Damkar Bergerak Cepat<\\/title>\\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n \\n\\t \\n\\t \\n\\t \\n \\n \\n \\n\\t \\n\\t \\n\\t \\n",
+    "html_bytes": 733729,
+    "challenge_detected": false,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 10,
+    "diagnostic": "Endpoint terstruktur mengembalikan artikel.",
+    "fetch_errors": []
+  },
+  {
+    "source": "iNews Kuningan",
+    "endpoint_type": "html_utama",
+    "url": "https://kuningan.inews.id/",
+    "final_url": "https://kuningan.inews.id/",
+    "http_status": 200,
+    "title": "Berita INewsKuningan Terbaru Hari Ini - iNews Portal",
+    "html_bytes": 83113,
+    "challenge_detected": false,
+    "configured_items": 28,
+    "configured_titles": 15,
+    "parsed_articles": 23,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "iNews Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningan.inews.id/news",
+    "final_url": "https://kuningan.inews.id/news",
+    "http_status": 200,
+    "title": "Berita Terkini Kabar Terbaru Hari Ini Di Kuningan - iNews Portal",
+    "html_bytes": 83480,
+    "challenge_detected": false,
+    "configured_items": 28,
+    "configured_titles": 15,
+    "parsed_articles": 23,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "iNews Kuningan",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningan.inews.id/peristiwa",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": null,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "HTTP 404 Not Found",
+    "fetch_errors": [
+      "HTTP 404 Not Found"
+    ]
+  },
+  {
+    "source": "Kuningan Religi",
+    "endpoint_type": "html_utama",
+    "url": "https://kuninganreligi.com/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Kuningan Religi",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuninganreligi.com/category/kuningan/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Kuningan Religi",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuninganreligi.com/?s=dprd",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Kuningan Religi",
+    "endpoint_type": "rss_feed",
+    "url": "https://kuninganreligi.com/feed/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Kuningan Religi",
+    "endpoint_type": "api",
+    "url": "https://kuninganreligi.com/wp-json/wp/v2/posts?_embed=1",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": true,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "Respons ditahan oleh halaman perantara/challenge (indikasi dari error fetch); HTML artikel tidak diteruskan ke parser. Periksa halaman normal menggunakan browser biasa/Safari, impor snapshot HTML lokal, atau gunakan feed/API resmi yang diizinkan.",
+    "fetch_errors": [
+      "HTTP 200 tetapi server mengirim halaman perantara/verifikasi, bukan konten artikel (title='Mohon tunggu sebentarâ\\x80¦'). HTTP biasa tidak dapat mengambil data dari respons ini."
+    ]
+  },
+  {
+    "source": "Media Identitas",
+    "endpoint_type": "html_utama",
+    "url": "https://mediaidentitas.com/",
+    "final_url": "https://mediaidentitas.com/",
+    "http_status": 200,
+    "title": "- Media Lokal Wawasan Nasional",
+    "html_bytes": 126667,
+    "challenge_detected": false,
+    "configured_items": 24,
+    "configured_titles": 19,
+    "parsed_articles": 7,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Media Identitas",
+    "endpoint_type": "html_fallback",
+    "url": "https://mediaidentitas.com/category/berita/",
+    "final_url": null,
+    "http_status": null,
+    "title": null,
+    "html_bytes": 0,
+    "challenge_detected": null,
+    "configured_items": 0,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "HTTP 404 Not Found",
+    "fetch_errors": [
+      "HTTP 404 Not Found"
+    ]
+  },
+  {
+    "source": "Kuningan News",
+    "endpoint_type": "html_utama",
+    "url": "https://www.kuningannews.com/",
+    "final_url": "https://www.kuningannews.com/",
+    "http_status": 200,
+    "title": "Kuningan News",
+    "html_bytes": 181362,
+    "challenge_detected": false,
+    "configured_items": 6,
+    "configured_titles": 7,
+    "parsed_articles": 6,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kuningan News",
+    "endpoint_type": "html_fallback",
+    "url": "https://kuningannews.com/",
+    "final_url": "https://www.kuningannews.com/",
+    "http_status": 200,
+    "title": "Kuningan News",
+    "html_bytes": 181362,
+    "challenge_detected": false,
+    "configured_items": 6,
+    "configured_titles": 7,
+    "parsed_articles": 6,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Kuningan News",
+    "endpoint_type": "html_fallback",
+    "url": "https://www.kuningannews.com/search/label/Politik",
+    "final_url": "https://www.kuningannews.com/search/label/Politik",
+    "http_status": 200,
+    "title": "Kuningan News",
+    "html_bytes": 109281,
+    "challenge_detected": false,
+    "configured_items": 1,
+    "configured_titles": 0,
+    "parsed_articles": 0,
+    "diagnostic": "HTTP berhasil tetapi tidak ditemukan artikel; periksa judul halaman, HTML aktual, selector, maintenance, atau konten yang dimuat JavaScript.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Detik (Tag Kuningan)",
+    "endpoint_type": "html_utama",
+    "url": "https://www.detik.com/tag/kuningan",
+    "final_url": "https://www.detik.com/tag/kuningan",
+    "http_status": 200,
+    "title": "Berita dan Informasi Kuningan Terkini dan Terbaru Hari ini  - detikcom",
+    "html_bytes": 71884,
+    "challenge_detected": false,
+    "configured_items": 16,
+    "configured_titles": 0,
+    "parsed_articles": 2,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  },
+  {
+    "source": "Detik (Tag Kuningan)",
+    "endpoint_type": "html_fallback",
+    "url": "https://www.detik.com/tag/kabupaten-kuningan",
+    "final_url": "https://www.detik.com/tag/kabupaten-kuningan",
+    "http_status": 200,
+    "title": "Berita dan Informasi Kabupaten kuningan Terkini dan Terbaru Hari ini  - detikcom",
+    "html_bytes": 71724,
+    "challenge_detected": false,
+    "configured_items": 15,
+    "configured_titles": 0,
+    "parsed_articles": 1,
+    "diagnostic": "Daftar artikel berhasil diparse.",
+    "fetch_errors": []
+  }
+]
